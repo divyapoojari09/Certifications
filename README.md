@@ -1,5 +1,12 @@
 # Certifications
 
+##CNN for Computer Vision with Keras and TensorFlow in Python certification
+<p align="center">
+  <img width="800" height="400" src="Certificates/CNN for Computer Vision with Keras and TensorFlow in Python.jpg">
+</p>
+
+Along with the basics of theoretical concepts in ANN and CNN, this course provided a wonderful practical experience where I built a CNN Model to solve a Kaggle image recognition competition. With a simple model, we were able to  achieve nearly 70% accuracy on the test set. But with application of concepts like Data Augmentation and Transfer Learning(used VGG16, an advanced Image Recognition model) in this case, accuracy level improved from 70% to nearly 97%.
+
 ##AWS Training-Data Analytics Fundamentals Certification
 <p align="center">
   <img width="800" height="400" src="Certificates/AWS Training-Data Analytics Fundamentals.PNG">
